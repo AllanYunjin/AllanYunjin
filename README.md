@@ -5,8 +5,6 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://br.pinterest.com/pin/3729612237069813/)"  />
-
 ###
 
 <div align="left">
