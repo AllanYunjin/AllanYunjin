@@ -1,6 +1,7 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá 👋! Meu nome é Allan </h2>
 
 ###
+<p align="left"> tenho 20 anos e sou de Barueri, São Paulo. Atualmente, construo minha carreira como Analista de Marketing, mas meu foco está totalmente voltado para a transição para a área de TI como desenvolvedor. Minha conexão com a tecnologia começou através da paixão por jogos, e hoje transformo esse interesse em estudo prático de código. Unindo a visão analítica que o marketing me deu com a vontade de criar soluções robustas, busco meu espaço no ecossistema de tecnologia. </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AllanYunjin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
