@@ -1,5 +1,3 @@
-# README.md
-
 **`Desenvolvedor FullStack`**
 
 Meu nome é Allan Ferreira Cavalcante, tenho 20 anos e sou de Barueri, São Paulo. Atualmente, construo minha carreira como Analista de Marketing, mas meu foco está totalmente voltado para a transição para a área de TI como desenvolvedor. Minha conexão com a tecnologia começou através da paixão por jogos, e hoje transformo esse interesse em estudo prático de código. Unindo a visão analítica que o marketing me deu com a vontade de criar soluções robustas, busco meu espaço no ecossistema de tecnologia.
